@@ -2,7 +2,7 @@
 #Some fixes by @RoyalBoy69
 
 
-repo="USERGE-X"
+repo="Paimon"
 rm -rf ${repo}
 
 echo "You're running the USERGE-X Updater script"
@@ -36,7 +36,7 @@ echo "Updating your USERGE-X"
 git pull
 git pull https://github.com/code-rgb/USERGE-X.git
 git diff
-git commit -m "😎"
+git commit -m "hehehe"
 git push
 echo " "
 echo "Updated"
