@@ -34,6 +34,7 @@ fi
 echo " "
 echo "Updating your USERGE-X"
 git pull
+git add .
 git pull https://github.com/code-rgb/USERGE-X.git
 git diff
 git commit -m "hehehe"
